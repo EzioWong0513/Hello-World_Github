@@ -1,0 +1,14 @@
+{
+  "name": "hello-world_github",
+  "version": "1.0.0",
+  "description": "Hello World  I added this line. <<<<<<< HEAD I am Wong Wan Tik at CENG. My SID: 1155158091 =======",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
